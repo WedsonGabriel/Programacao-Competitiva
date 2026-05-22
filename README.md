@@ -1,4 +1,4 @@
-# 🏆 Maratonas de Programação
+# 🏆 Programação Competitiva
 
 Este repositório é dedicado a armazenar as resoluções de problemas, algoritmos e desafios realizados durante a minha preparação para maratonas de programação competitiva. Este projeto acompanha o meu desenvolvimento prático e lógico no curso de Análise e Desenvolvimento de Sistemas (TADS) no IFRN.
 
